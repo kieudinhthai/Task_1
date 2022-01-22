@@ -7,5 +7,6 @@ Bassic Javascript
  #### Running the project
  Open file Task_1.html  and open the Developer Tools.
  
- 
+ ![task1](https://user-images.githubusercontent.com/72057059/150633519-18deda35-9357-4f96-b85a-32dc3fcd4e52.PNG)
+
  
